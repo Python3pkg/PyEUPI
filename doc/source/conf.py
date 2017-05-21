@@ -58,8 +58,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'PyEUPI'
-copyright = u'2016, Raphaël Vinot'
-author = u'Raphaël Vinot'
+copyright = '2016, Raphaël Vinot'
+author = 'Raphaël Vinot'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -237,7 +237,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'PyEUPI.tex', 'PyEUPI Documentation',
-     u'Raphaël Vinot', 'manual'),
+     'Raphaël Vinot', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of

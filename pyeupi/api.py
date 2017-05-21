@@ -11,8 +11,8 @@ except ImportError:
 try:
     from urllib.parse import urljoin, urlencode
 except ImportError:
-    from urlparse import urljoin
-    from urllib import urlencode
+    from urllib.parse import urljoin
+    from urllib.parse import urlencode
 
 
 class PyEUPI(object):
